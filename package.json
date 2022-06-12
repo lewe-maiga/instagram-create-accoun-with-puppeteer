@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "puppeteer-core": "^9.0.0"
+  }
+}
